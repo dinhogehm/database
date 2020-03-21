@@ -1,6 +1,6 @@
 # database
 
-Projeto pessoal de base de dados
+Projeto Base de dados
 
 Objetivos:
 - Ter todos os CNPJ do Brasil
